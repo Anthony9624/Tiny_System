@@ -54,7 +54,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					</form>
 				</div>
 			</div>
-			<div class="text"><p>版权所有 ©2020-2021学生网上报名系统 保留所有权利</p></div>
 		</div>
 	</body>
 </html>
