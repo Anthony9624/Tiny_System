@@ -22,7 +22,7 @@ body{
 	font-size: 22px;
 	letter-spacing: 5px;
 	color:white;
-	font-family: "黑体";
+	font-family: "楷体";
 	margin-top: 15px;
 	left:43%;
 }
@@ -57,7 +57,7 @@ body{
 	font-size: 20px;
 	letter-spacing: 5px;
 	color:white;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align:center;
 	
 	
@@ -72,7 +72,7 @@ body{
 	font-size: 20px;
 	letter-spacing: 5px;
 	color:white;
-	font-family: "黑体";
+	font-family: "楷体";
 	margin-top: 370px;
 	text-align:center;
 	line-height: 40px;
@@ -89,7 +89,7 @@ body{
 	font-size: 20px;
 	letter-spacing: 5px;
 	color:white;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align:center;
 	
 	
@@ -101,7 +101,7 @@ body{
 	line-height: 30px;
 	border-radius: 5px;
 	font-size: 16px;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align: center;
 	border: none;
 	color:white;
@@ -179,7 +179,7 @@ body{
 	line-height: 30px;
 	border-radius: 5px;
 	font-size: 16px;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align: center;
 	border: none;
 	color:white;
@@ -193,7 +193,7 @@ body{
 	line-height: 35px;
 	border-radius: 5px;
 	font-size: 19px;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align: center;
 	color:write;
 	outline: none;
@@ -232,14 +232,14 @@ body{
 }
 .main .main_right .box .form .form_1 .form_1_table caption{
 	font-size: 24px;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align: center;
 	line-height:100px;
 }
 
 .main .main_right .box .form .form_1 p{
 	font-size: 24px;
-	font-family: "黑体";
+	font-family: "楷体";
 	text-align: center;
 	margin-top: 100px;
 }
