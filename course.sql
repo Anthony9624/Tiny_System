@@ -1,10 +1,10 @@
-INSERT INTO `course` VALUES (4, '大学英语二', 4.0);
+INSERT INTO `course` VALUES (4, '机器学习', 4.0);
 INSERT INTO `course` VALUES (6, '计算机网络', 2.5);
 INSERT INTO `course` VALUES (7, '数据结构', 3.0);
-INSERT INTO `course` VALUES (11, '大学物理', 3.5);
+INSERT INTO `course` VALUES (11, '数字图像处理', 3.5);
 INSERT INTO `course` VALUES (14, '人机交互', 3.0);
-INSERT INTO `course` VALUES (15, '网页设计', 2.0);
+INSERT INTO `course` VALUES (15, '专业英语', 2.0);
 INSERT INTO `course` VALUES (16, '物联网', 2.5);
-INSERT INTO `course` VALUES (18, '生物制药', 2.0);
-INSERT INTO `course` VALUES (19, '沈阳大学', 3.0);
+INSERT INTO `course` VALUES (18, '高级人工智能', 2.0);
+INSERT INTO `course` VALUES (19, '辽宁师范大学', 3.0);
 INSERT INTO `course` VALUES (20, 'JSP程序设计', 4.5);
